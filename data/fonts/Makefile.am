@@ -11,7 +11,18 @@ dist_install_DATA = \
 	LiberationSans-Bold.ttf \
 	LiberationSans-BoldItalic.ttf \
 	LiberationSans-Italic.ttf \
-	LiberationSans-Regular.ttf
+	LiberationSans-Regular.ttf \
+	HandelGotDBol.ttf \
+        HandelGotD.ttf \
+        Lato-Bold.ttf \
+        Lato-Regular.ttf \
+        Roboto-Caps.ttf \
+        Roboto-Regular.ttf \
+        aller_ace_CAPS.ttf \
+        tuxtxt_nonbold.ttf \
+        valis_enigma.ttf
+
+	
 
 if VUULTIMO
 dist_install_DATA += analog.ttf MyriadPro-Regular.otf MyriadPro-Semibold.otf MyriadPro-SemiboldIt.otf
