@@ -18,11 +18,8 @@ dist_install_DATA = \
         Lato-Regular.ttf \
         Roboto-Caps.ttf \
         Roboto-Regular.ttf \
-        aller_ace_CAPS.ttf \
-        tuxtxt_nonbold.ttf \
-        valis_enigma.ttf
-
-	
+        aller_ace_CAPS.ttf 
+        	
 
 if VUULTIMO
 dist_install_DATA += analog.ttf MyriadPro-Regular.otf MyriadPro-Semibold.otf MyriadPro-SemiboldIt.otf
